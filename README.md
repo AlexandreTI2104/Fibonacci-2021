@@ -1,3 +1,3 @@
 # Fibonacci-2021
 
-Uma versão atualizada do Fibonacci em Python sendo utilizada como uma função.
+A resolução de um problema clássico da programação em Python Version 3.8 o famoso Fibonacci.
